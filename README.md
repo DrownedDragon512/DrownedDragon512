@@ -1,18 +1,33 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== NAME ===================== -->
+
+<h1 align="center">🐉 Anant Joshi (DrownedDragon512)</h1>
+
+<!-- ===================== TYPING INTRO ===================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;DSA+%26+Competitive+Programmer;Problem+Solver+by+Heart;Codeforces+%7C+LeetCode+%7C+GFG" />
+</p>
+
+<!-- ===================== KONG HEADER ===================== -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DrownedDragon512/DrownedDragon512/main/kong.gif" width="100%" />
 </p>
 
-<h1 align="center">🐉 DrownedDragon512</h1>
-<h3 align="center">Full Stack Developer | CP & DSA Enthusiast</h3>
-
 <p align="center">
   <i>
     I’m into development, but more tilted towards <b>DSA</b> &  
     <b>Competitive Programming</b> ⚔️  
-    I love solving hard problems and building real-world systems.
+    I enjoy solving hard problems and building efficient systems.
   </i>
+</p>
+
+---
+
+## 🧮 Competitive Programming
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=DrownedDragon06&theme=dark" />
 </p>
 
 ---
@@ -54,25 +69,13 @@
   </tr>
 </table>
 
-
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Compact)
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts" />
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-
-### 🧩 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis" />
-
-### ⚙️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,redis,git,github,docker,linux,aws,vscode" />
+</p>
 
 ---
 
@@ -84,9 +87,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DrownedDragon512&style=flat-square&color=blue" />
-</p>
+<!-- ===================== FOOTER (TIER-3 COOL) ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
 
 <p align="center">
   <b>⚔️ Code. Compete. Conquer.</b>

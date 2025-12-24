@@ -95,7 +95,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/DrownedDragon512/DrownedDragon512/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DrownedDragon512/DrownedDragon512/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

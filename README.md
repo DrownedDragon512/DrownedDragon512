@@ -35,7 +35,7 @@
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/DrownedDragon512/">
-        <img src="https://skillicons.dev/icons?i=leetcode" height="45"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="45"/><br/>
         LeetCode
       </a>
     </td>
@@ -53,6 +53,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 

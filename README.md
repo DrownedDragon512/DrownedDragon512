@@ -71,7 +71,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Compact)
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,redis,git,github,docker,linux,aws,vscode" />

@@ -1,7 +1,7 @@
 <!-- ===================== NAME ===================== -->
 
 <h1 align="center">Anant Joshi (DrownedDragon512)</h1>
-![Profile Views](https://komarev.com/ghpvc/?username=DrownedDragon512&color=orange&style=flat-square&label=Profile+Views)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=DrownedDragon512.DrownedDragon512&left_text=Profile+Views&right_color=orange)
 
 <!-- ===================== TYPING INTRO ===================== -->
 

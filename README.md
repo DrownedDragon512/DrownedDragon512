@@ -89,11 +89,14 @@
 
 <!-- ===================== FOOTER (TIER-3 COOL) ===================== -->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DrownedDragon512&style=for-the-badge&color=blueviolet"/>
+<div align="center" style="margin-bottom:-120px;">
+
+<img src="https://komarev.com/ghpvc/?username=DrownedDragon512&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=footer" width="100%"/>
+
 
 
 <p align="center">

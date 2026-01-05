@@ -1,7 +1,6 @@
 <!-- ===================== NAME ===================== -->
 
 <h1 align="center">Anant Joshi (DrownedDragon512)</h1>
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=DrownedDragon512.DrownedDragon512&left_text=Profile+Views&right_color=orange)
 
 <!-- ===================== TYPING INTRO ===================== -->
 

@@ -1,6 +1,6 @@
 <!-- ===================== NAME ===================== -->
 
-<h1 align="center">🐉 Anant Joshi (DrownedDragon512)</h1>
+<h1 align="center">Anant Joshi (DrownedDragon512)</h1>
 
 <!-- ===================== TYPING INTRO ===================== -->
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧮 Competitive Programming
+## Competitive Programming
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=DrownedDragon06&theme=dark" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <table align="center">
   <tr>
@@ -71,7 +71,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,redis,git,github,docker,linux,aws,vscode" />
@@ -79,7 +79,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DrownedDragon512/DrownedDragon512/output/github-contribution-grid-snake.svg" />
